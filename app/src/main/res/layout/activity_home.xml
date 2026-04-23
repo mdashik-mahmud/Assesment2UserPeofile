@@ -63,7 +63,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="Add"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="#E91E4CB4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:src="@android:drawable/ic_input_add"
